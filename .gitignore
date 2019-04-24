@@ -106,6 +106,7 @@ atlassian-ide-plugin.xml
 *.swp
 *~.nib
 local.properties
+application.properties
 .classpath
 .settings/
 .loadpath
