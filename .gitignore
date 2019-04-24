@@ -106,7 +106,7 @@ atlassian-ide-plugin.xml
 *.swp
 *~.nib
 local.properties
-src/main/resources/application.properties
+ies
 .classpath
 .settings/
 .loadpath
@@ -127,7 +127,8 @@ src/main/resources/application.properties
 derby.log
 
 
-
+#some other gitignore
+.src/main/resources/application.propert
 
 
 
