@@ -128,7 +128,7 @@ derby.log
 
 
 #some other gitignore
-***/application.properties
+.src/main/resources/application.properties
 
 
 
